@@ -2,4 +2,4 @@
 FiveLink is a remote-controlled, pick-and-place robot developed for our Bachelor thesis in collaboration with Tronrud Engineering. The design builds on the earlier DuoPod prototype.
 
 Project video: https://youtu.be/_2HHFRIy9HQ
-![PDF Poster](path/to/Poster.png)
+![PDF Poster](Poster.png)
